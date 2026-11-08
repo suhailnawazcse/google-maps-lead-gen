@@ -1,0 +1,13 @@
+{
+  "name": "google-maps-lead-gen-marketplace",
+  "owner": {
+    "name": "suhailnawaz0225"
+  },
+  "plugins": [
+    {
+      "name": "google-maps-lead-gen",
+      "source": "./",
+      "description": "Find local business leads with the official Google Places API, qualify and score them, and draft personalized outreach."
+    }
+  ]
+}

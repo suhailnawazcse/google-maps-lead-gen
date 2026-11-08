@@ -1,0 +1,10 @@
+{
+  "name": "google-maps-lead-gen",
+  "version": "0.1.0",
+  "description": "Find local business leads with the official Google Places API, qualify and score them against your offer, and draft personalized outreach.",
+  "author": {
+    "name": "suhailnawaz0225"
+  },
+  "license": "MIT",
+  "keywords": ["lead-generation", "google-maps", "google-places", "sales", "outreach", "local-business"]
+}
